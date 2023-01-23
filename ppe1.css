@@ -18,6 +18,12 @@
 
 	
 }
+img {
+	width: 180px;
+	height: 280px;
+	margin-left:10px;
+	margin-top: 10px;
+}
 
 .grand {
 	width: 1480px;
