@@ -1,0 +1,60 @@
+.contact {
+    font-family: Verdana;
+    margin-left: 10px;
+    font-size: 30px;
+    color: white;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 29%, rgba(0,212,255,1) 100%);
+
+}
+
+p {
+    font-size: 20px;
+    margin-left: 8px;
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 29%, rgba(0,212,255,1) 100%);
+color: white;
+font-size: 22px;
+}
+
+.mail {
+    margin-left: 10px;
+    width: 1890px;
+    height: 25px;
+    border:2px solid black ;
+    color: black;
+    
+}
+
+.Nom {
+    margin-left: 10px;
+    width: 1890px;
+    height: 25px;
+    border:2px solid black ;
+}
+.obj {
+    margin-left: 10px;
+    width: 1890px;
+    height: 25px;
+    border:2px solid black ;
+}
+textarea {
+    margin-left: 10px;
+    width: 1890px;
+    height: 100px;
+    border:2px solid black ;
+}
+
+button {
+    margin-top: 15px;
+    margin-left: 910px;
+    width: 200px;
+    height: 40px;
+    border: 2px solid blue;
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+}
+button:hover {
+    background-color: aqua;
+}
